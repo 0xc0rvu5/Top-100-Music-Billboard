@@ -1,0 +1,36 @@
+Here are the top articles of the day starting with the article with the most upvotes.
+
+**Knight’s Landing: Atom with AVX-512 – Chips and Cheese (chipsandcheese.com)**
+
+All articles located below.
+
+The Tesla Semi cab from the practical POV of someone who drives trucks (twitter.com/torynski)
+Ten Minute Physics (matthias-research.github.io)
+A 100MW solar farm in Texas will mount panels directly on the ground (canarymedia.com)
+Uxn is a virtual machine with 32 instructions (xxiivv.com)
+Fireship – Learn to Code Faster (fireship.io)
+A 17-line C program freezes the Mac kernel (2018) (jvns.ca)
+Glow: Render Markdown on the CLI (github.com/charmbracelet)
+Korg makes music with Raspberry Pi (raspberrypi.com)
+Show HN: LearnGPT – Browse and share ChatGPT examples (learngpt.com)
+SWR 2.0 (swr.vercel.app)
+Show HN: Panoptisch – A recursive dependency scanner for Python projects (github.com/r9295)
+Internet Archive Scholar (archive.org)
+Show HN: I fine-tuned Flan-T5. Can it cook? (abuqader.substack.com)
+Show HN: Pynecone – Web Apps in Pure Python (github.com/pynecone-io)
+Stripe’s real pricing: a primer (github.com/getlago)
+Why does the Commodore C128 perform poorly when running CP/M? (retrocomputing.stackexchange.com)
+The various scripts I use to back up my home computers using SSH and rsync (github.com/eamonnsullivan)
+The Internet during world war (oecd-forum.org)
+The case for speed limits [on German autobahn] (datawrapper.de)
+Dark Patterns from the End-User Perspective (arxiv.org)
+All in with Nuitka (nuitka.net)
+Show HN: BeSanta, Real time Santa Claus AI avatars on your iPhone Ho-ho-ho (apps.apple.com)
+The Right to Be Lazy (nyrb.com)
+How to write like Malcolm Gladwell (commonreader.substack.com)
+DeepMind Dramatron: a new tool for writers to co-write theatre and film scripts (deepmind.github.io)
+GitHub 2022 Wrap (githubtrends.io)
+KaiPod Learning (YC S21) Is Hiring a Founding Engineer
+Knight’s Landing: Atom with AVX-512 – Chips and Cheese (chipsandcheese.com)
+Facebook tracking is illegal in Europe (tutanota.com)
+Data-driven performance optimization with Rust and Miri (medium.com/source-and-buggy)
